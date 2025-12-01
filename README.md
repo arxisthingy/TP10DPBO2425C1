@@ -7,6 +7,7 @@ Saya Dzaka Musyaffa Hidayat dengan NIM 2404913 mengerjakan Tugas Praktikum 10 da
 ## Deskripsi
 
 ## Struktur Folder
+```
 TP10DPBO2425C1/
 ├── db_kereta.sql
 ├── project/
@@ -39,5 +40,5 @@ TP10DPBO2425C1/
 │           ├── footer.php
 │           └── header.php
 └── README.md
-
+```
 
