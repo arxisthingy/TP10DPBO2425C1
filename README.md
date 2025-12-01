@@ -6,6 +6,8 @@ Saya Dzaka Musyaffa Hidayat dengan NIM 2404913 mengerjakan Tugas Praktikum 10 da
 
 ## Deskripsi
 
+Program ini adalah aplikasi manajemen data yang berkaitan dengan perkeretaapian. Aplikasi ini dibangun menggunakan bahasa PHP dengan menerapkan konsep Model-View-ViewModel (MVVM), dan memanfaatkan basis data MySQL/MariaDB.
+
 ## Struktur Folder
 ```
 TP10DPBO2425C1/
