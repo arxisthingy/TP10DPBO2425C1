@@ -11,13 +11,9 @@ Program ini adalah aplikasi manajemen data yang berkaitan dengan perkeretaapian.
 Data yang dikelola meliputi:
 
 1. ``Depo``: Tempat penyimpanan dan perawatan sarana kereta api.
-
 2. ``Lokomotif``: Kendaraan utama penarik rangkaian kereta.
-
 3. ``Gerbong``: Kendaraan yang ditarik oleh lokomotif (untuk penumpang atau barang).
-
 4. ``Rangkaian``: Kumpulan lokomotif dan/atau gerbong yang membentuk satu kesatuan.
-
 5. ``Detail Rangkaian``: Detail komponen (lokomotif/gerbong) yang ada dalam sebuah rangkaian.
 
 Program ini menyediakan fungsi CRUD (Create, Read, Update, Delete) untuk setiap entitas, memungkinkan pengguna untuk mengelola data perkeretaapian secara efisien melalui antarmuka web.
@@ -112,4 +108,8 @@ Pengguna mengakses ``index.php`` tanpa parameter, yang biasanya akan menampilkan
 - ``*ViewModel`` memvalidasi data dan memanggil metode ``insertData()`` atau ``updateData()`` dari *_Model_.
 - _Model_ menjalankan query INSERT/UPDATE ke database.
 - Setelah operasi berhasil, _Controller_ akan mengarahkan (redirect) pengguna kembali ke halaman daftar.
+
+## Dokumentasi
+
+https://github.com/user-attachments/assets/38da8d9c-bb83-4c19-887f-5104d7132f2c
 
